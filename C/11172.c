@@ -1,0 +1,15 @@
+/*11172*/
+
+#include<stdio.h>
+int main()
+{
+    int t,a,b;
+    scanf("%d",&t);
+    while(t!=0)
+    {
+        t--;
+        scanf("%d %d",&a,&b);
+        printf("%c\n",(a>b)?'>':(a<b)?'<':'=');
+    }
+    return 0;
+}
