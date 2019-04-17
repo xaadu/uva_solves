@@ -1,2 +1,8 @@
-# uva_solves
-Solved UVA Problems
+# UVA Solves
+
+Solved UVA Problems by different Languages.
+
+Languages:
+  * C
+  * JAVA
+  * Python
